@@ -1,0 +1,44 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700;900&display=swap');
+
+@theme {
+  --color-white: #ffffff;
+  --color-dark: #334155;
+  --color-ghost-white: #f8fafc;
+  --color-light-gray: #f5f5f5;
+  --color-dark-green: #0b6b3a;
+  --color-green: #16a34a;
+  --color-border: #cbd5e1;
+  --color-dark-red: #b01219;
+  --color-red: #dc2626;
+}
+.line-hight {
+  line-height: 1;
+}
+
+.home-bg {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(226, 232, 240, 0.3) 1.56%,
+      rgba(226, 232, 240, 0) 1.56%
+    ),
+    linear-gradient(
+      90deg,
+      rgba(226, 232, 240, 0.3) 1.56%,
+      rgba(226, 232, 240, 0) 1.56%
+    );
+}
+
+.about-bg {
+  background: linear-gradient(180deg, #ffffff 0%, #f5f5f5 100%);
+}
+
+.shadow {
+  box-shadow: 0px 8px 10px -6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+.plan_bg {
+  background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+}

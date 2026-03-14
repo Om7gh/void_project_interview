@@ -1,0 +1,16 @@
+export { default as Logo } from './Logo.png';
+export { default as Arrow } from './right_arrow.png';
+export { default as Phone } from './phone.svg';
+export { default as Shape } from './shape.png';
+export { default as Lamp } from './lamp.png';
+export { default as About } from './about.png';
+export { default as Check } from './check.png';
+export { default as Analayse } from './analyse-icon.svg';
+export { default as Cadeau } from './cadeau-icon.svg';
+export { default as Collection } from './collection-icon.svg';
+export { default as Phone_Icon } from './phone-icon.svg';
+export { default as Cartable } from './cartable.png';
+export { default as Catalog1 } from './catalog1.jpg';
+export { default as Catalog2 } from './catalog2.png';
+export { default as Catalog3 } from './catalog3.png';
+export { default as Catalog4 } from './catalog4.png';
